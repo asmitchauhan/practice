@@ -1,8 +1,10 @@
 First of all open git bash in the folder
 then open the folder in vs code
 give command "git init"
-track one file by "git add filename"
-track all the files by "git add -A"
+add one file to the staging area by "git add filename"
+add all the files to the staging area by "git add -A"
 "git status" to see the status of a file or at what stage the file is at
 use 'git commit -m "message"' to commit
 use "git log" to see all the commits
+
+note : before commiting every time first add the file to staging area
